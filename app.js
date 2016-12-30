@@ -8,7 +8,7 @@ export default class App extends Component{
       test: 1111
     }
 
-
+      setTimeout(() =>)
   }
   componentWillUpdate() {
     console.log(9990)
